@@ -1,0 +1,19 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "Auth package for private projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "vite test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxrwn/auth.git"
+  },
+  "author": "mx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxrwn/auth/issues"
+  },
+  "homepage": "https://github.com/mxrwn/auth#readme"
+}
